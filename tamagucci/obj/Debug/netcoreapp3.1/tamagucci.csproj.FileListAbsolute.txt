@@ -1,0 +1,13 @@
+C:\Programmering 2\tamagucci\tamagucci\obj\Debug\netcoreapp3.1\tamagucci.csprojAssemblyReference.cache
+C:\Programmering 2\tamagucci\tamagucci\obj\Debug\netcoreapp3.1\tamagucci.AssemblyInfoInputs.cache
+C:\Programmering 2\tamagucci\tamagucci\obj\Debug\netcoreapp3.1\tamagucci.AssemblyInfo.cs
+C:\Programmering 2\tamagucci\tamagucci\obj\Debug\netcoreapp3.1\tamagucci.csproj.CoreCompileInputs.cache
+C:\Programmering 2\tamagucci\tamagucci\bin\Debug\netcoreapp3.1\tamagucci.exe
+C:\Programmering 2\tamagucci\tamagucci\bin\Debug\netcoreapp3.1\tamagucci.deps.json
+C:\Programmering 2\tamagucci\tamagucci\bin\Debug\netcoreapp3.1\tamagucci.runtimeconfig.json
+C:\Programmering 2\tamagucci\tamagucci\bin\Debug\netcoreapp3.1\tamagucci.runtimeconfig.dev.json
+C:\Programmering 2\tamagucci\tamagucci\bin\Debug\netcoreapp3.1\tamagucci.dll
+C:\Programmering 2\tamagucci\tamagucci\bin\Debug\netcoreapp3.1\tamagucci.pdb
+C:\Programmering 2\tamagucci\tamagucci\obj\Debug\netcoreapp3.1\tamagucci.dll
+C:\Programmering 2\tamagucci\tamagucci\obj\Debug\netcoreapp3.1\tamagucci.pdb
+C:\Programmering 2\tamagucci\tamagucci\obj\Debug\netcoreapp3.1\tamagucci.genruntimeconfig.cache
